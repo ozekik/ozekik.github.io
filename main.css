@@ -1,3 +1,7 @@
 em {
   color: inherit;
 }
+
+#content {
+  margin-bottom: 10rem;
+}
