@@ -5,3 +5,7 @@ em {
 #content {
   margin-bottom: 10rem;
 }
+
+.text-right {
+  text-align: right;
+}
